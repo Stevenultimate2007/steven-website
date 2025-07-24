@@ -1,0 +1,119 @@
+{
+  "hero": {
+    "title": "STEVEN   NTY",
+    "subtitle": "Ich schaffe Geschichten, die bleiben – Schnitt mit Seele & Präzision.",
+    "cta": "Lass uns starten"
+  },
+  "about": {
+    "title": "Über mich",
+    "text": "Ich bin Steven Nty – leidenschaftlicher Videoeditor mit 4 Jahren Erfahrung. Mein Fokus liegt auf emotionalem Storytelling und detailverliebtem Schnitt."
+  },
+  "portfolio": {
+    "title": "Meine besten Werke",
+    "projects": [
+      { "title": "Social Media Cut", "desc": "Edits für TikTok & Instagram" },
+      { "title": "Cinematic Short", "desc": "Kurzfilm mit Storytelling" },
+      { "title": "Gaming Montage", "desc": "Dynamische Gaming-Zusammenschnitte" },
+      { "title": "Corporate Video", "desc": "Saubere, professionelle Business-Edits" },
+      { "title": "Music Video", "desc": "Musikvideos mit Dynamik & Effekten" },
+      { "title": "Documentary", "desc": "Emotionale Dokumentationen" }
+    ]
+  },
+  "pricing": {
+    "title": "Preise pro Video",
+    "info": "Jedes Projekt wird individuell kalkuliert. Ich nehme nur wenige Kunden gleichzeitig an, um höchste Qualität zu gewährleisten.",
+    "starter": {
+      "title": "Starter",
+      "desc": "Ein Video (bis 60 Sek.) – Basis-Schnitt, saubere Bearbeitung, perfekt für Social Media",
+      "price": "ab 300€"
+    },
+    "pro": {
+      "title": "Pro",
+      "desc": "Ein Video (1–3 Min.) – erweiterter Schnitt, B-Roll, Color Grading, Sound Design",
+      "price": "ab 600€"
+    },
+    "premium": {
+      "title": "Premium",
+      "desc": "Ein Video (3–10 Min.) – High-End Editing, Storytelling, Motion Graphics, Beratung",
+      "price": "ab 1200€"
+    },
+    "cta": "Projekt anfragen",
+    "popular": "Beliebtestes Paket",
+    "disclaimer": "Preise dienen als Orientierung. Der endgültige Preis wird individuell nach Aufwand und Anforderungen festgelegt."
+  },
+  "contact": {
+    "title": "Kontakt",
+    "subtitle": "Schreib mir jetzt eine Nachricht und lass uns dein Projekt besprechen.",
+    "firstnamePlaceholder": "Max",
+    "lastnamePlaceholder": "Mustermann",
+    "emailPlaceholder": "max.mustermann@gmail.com",
+    "phonePlaceholder": "+49 123 456 78",
+    "messagePlaceholder": "Bitte hinterlass mir eine kurze Nachricht...",
+    "packages": {
+    "starter": "Starter – Basis-Schnitt",
+    "pro": "Pro – Erweiterte Bearbeitung",
+    "premium": "Premium – High-End Videoproduktion"
+  },
+    "button": "Lass uns starten"
+  },
+  "buttons": {
+    "whatsapp": "Schreib mir auf WhatsApp"
+  },
+  "robotSpeech": {
+  "lines": [
+    "Schau dir gerne all meine Videos an,",
+    "ich bin sicher,",
+    "wir werden dich nicht enttäuschen!"
+  ]
+},
+"approach": {
+  "title": "Unser Ablauf",
+  "subtitle": "Von deiner Idee bis zum fertigen Video – so arbeiten wir zusammen.",
+  "step1": {
+    "title": "1. Kontakt",
+    "desc": "Du meldest dich mit deiner Projektidee über das Kontaktformular oder WhatsApp – wir sprechen über deine Vision."
+  },
+  "step2": {
+    "title": "2. Konzept & Planung",
+    "desc": "Wir entwickeln ein maßgeschneidertes Konzept und legen den Projektumfang fest."
+  },
+  "step3": {
+    "title": "3. Produktion",
+    "desc": "Dreharbeiten oder dein Material – alles wird für den Schnitt vorbereitet."
+  },
+  "step4": {
+    "title": "4. Schnitt & Feinschliff",
+    "desc": "Ich schneide, bearbeite, color-grade und perfektioniere dein Video."
+  },
+  "step5": {
+    "title": "5. Lieferung",
+    "desc": "Du erhältst das fertige Video im gewünschten Format, bereit zur Veröffentlichung."
+  }},
+  "impressum": {
+  "title": "Impressum",
+  "responsible": "Verantwortlich für den Inhalt",
+  "contact": "Kontakt",
+  "additionalTitle": "Weitere Angaben",
+  "ust": "USt-ID",
+  "note": "Gemäß § 19 UStG wird keine Umsatzsteuer berechnet (Kleinunternehmerregelung).",
+  "disclaimer": "Dieses Impressum gilt auch für unsere Social-Media-Profile."
+},
+"datenschutz": {
+  "title": "Datenschutzerklärung",
+  "intro": "Der Schutz Ihrer persönlichen Daten ist uns sehr wichtig. Wir behandeln Ihre personenbezogenen Daten vertraulich und entsprechend der gesetzlichen Datenschutzvorschriften (DSGVO).",
+  "responsibleTitle": "Verantwortliche Stelle",
+  "dataCollectionTitle": "Erhebung und Verarbeitung personenbezogener Daten",
+  "dataCollectionText": "Wir erheben personenbezogene Daten nur, wenn Sie uns diese freiwillig über das Kontaktformular oder per E-Mail zur Verfügung stellen. Diese Daten verwenden wir ausschließlich zur Bearbeitung Ihrer Anfrage und speichern sie nur so lange, wie es für den jeweiligen Zweck erforderlich ist.",
+  "rightsTitle": "Ihre Rechte",
+  "rightsText": "Sie haben jederzeit das Recht auf Auskunft über Ihre gespeicherten Daten, deren Berichtigung, Löschung sowie Einschränkung der Verarbeitung. Sie können zudem der Verarbeitung Ihrer Daten jederzeit widersprechen.",
+  "cookiesTitle": "Cookies",
+  "cookiesText": "Unsere Website verwendet nur technisch notwendige Cookies. Es werden keine Tracking- oder Marketing-Cookies eingesetzt.",
+  "securityTitle": "Datensicherheit",
+  "securityText": "Wir setzen technische und organisatorische Maßnahmen ein, um Ihre Daten vor unbefugtem Zugriff, Verlust oder Missbrauch zu schützen.",
+  "changesTitle": "Änderungen",
+  "changesText": "Wir behalten uns vor, diese Datenschutzerklärung anzupassen, um sie stets aktuell zu halten."
+},
+"packageLabel": "Gewähltes Paket"
+
+
+}

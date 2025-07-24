@@ -1,0 +1,120 @@
+{
+  "hero": {
+    "title": "STEVEN   NTY",
+    "subtitle": "I create stories that last – editing with soul & precision.",
+    "cta": "Let's get started"
+  },
+  "about": {
+    "title": "About me",
+    "text": "I'm Steven Nty – a passionate video editor with 4 years of experience. My focus is on emotional storytelling and detailed, high-quality editing."
+  },
+  "portfolio": {
+    "title": "My best works",
+    "projects": [
+      { "title": "Social Media Cut", "desc": "Edits for TikTok & Instagram" },
+      { "title": "Cinematic Short", "desc": "Short film with storytelling" },
+      { "title": "Gaming Montage", "desc": "Dynamic gaming edits" },
+      { "title": "Corporate Video", "desc": "Clean, professional business edits" },
+      { "title": "Music Video", "desc": "Music videos with dynamics & effects" },
+      { "title": "Documentary", "desc": "Emotional documentaries" }
+    ]
+  },
+  "pricing": {
+    "title": "Prices per video",
+    "info": "Each project is individually calculated. I only take on a few clients at a time to ensure the highest quality.",
+    "starter": {
+      "title": "Starter",
+      "desc": "One video (up to 60 sec) – basic editing, clean cuts, perfect for social media",
+      "price": "from €300"
+    },
+    "pro": {
+      "title": "Pro",
+      "desc": "One video (1–3 min) – advanced editing, B-roll, color grading, sound design",
+      "price": "from €600"
+    },
+    "premium": {
+      "title": "Premium",
+      "desc": "One video (3–10 min) – high-end editing, storytelling, motion graphics, consultation",
+      "price": "from €1200"
+    },
+    "cta": "Request project",
+    "popular": "Most Popular",
+    "disclaimer": "Prices are for orientation. The final price is determined individually based on effort and requirements."
+  },
+  "contact": {
+    "title": "Contact",
+    "subtitle": "Send me a message right now and let's discuss your project.",
+    "firstnamePlaceholder": "John",
+     "lastnamePlaceholder": "Smith",
+    "emailPlaceholder": "john.smith@gmail.com",
+    "phonePlaceholder": "+1 (000) 000-0000",
+    "messagePlaceholder": "Leave me a message...",
+     "packages": {
+    "starter": "Starter – Basic editing",
+    "pro": "Pro – Advanced editing",
+    "premium": "Premium – High-end video production"
+  },
+    "button": "Let's start your project today"
+  },
+  "buttons": {
+    "whatsapp": "Message me on WhatsApp"
+  },
+  "robotSpeech": {
+  "lines": [
+    "Feel free to check out all my videos,",
+    "I'm confident",
+    "we won't disappoint you!"
+  ]
+},
+"approach": {
+  "title": "Our Process",
+  "subtitle": "From your idea to the finished video – this is how we work together.",
+  "step1": {
+    "title": "1. Contact",
+    "desc": "You reach out to me with your project idea over the contact formular or WhatsApp – let's talk about your vision."
+  },
+  "step2": {
+    "title": "2. Concept & Planning",
+    "desc": "We develop a concept tailored to your goals and define the scope of the project."
+  },
+  "step3": {
+    "title": "3. Production",
+    "desc": "Filming or receiving your footage – everything is prepared for editing."
+  },
+  "step4": {
+    "title": "4. Editing & Fine-Tuning",
+    "desc": "I cut, edit, color-grade, and refine your video until it perfectly tells your story."
+  },
+  "step5": {
+    "title": "5. Delivery",
+    "desc": "You receive the finished video in your desired format, ready for publishing."
+  }},
+  "impressum": {
+  "title": "Legal Notice",
+  "responsible": "Responsible for the content",
+  "contact": "Contact",
+  "additionalTitle": "Additional Information",
+  "ust": "VAT ID",
+  "note": "According to § 19 UStG, no VAT is charged (small business regulation).",
+  "disclaimer": "This legal notice also applies to our social media profiles."
+},
+"datenschutz": {
+  "title": "Privacy Policy",
+  "intro": "The protection of your personal data is very important to us. We treat your personal data confidentially and in accordance with the legal data protection regulations (GDPR).",
+  "responsibleTitle": "Responsible Entity",
+  "dataCollectionTitle": "Collection and Processing of Personal Data",
+  "dataCollectionText": "We only collect personal data if you voluntarily provide it to us via the contact form or by email. This data is used solely for processing your request and will only be stored as long as necessary for that purpose.",
+  "rightsTitle": "Your Rights",
+  "rightsText": "You have the right at any time to receive information about your stored data, as well as the right to correct, delete, or restrict its processing. You may also object to the processing of your data at any time.",
+  "cookiesTitle": "Cookies",
+  "cookiesText": "Our website only uses technically necessary cookies. No tracking or marketing cookies are used.",
+  "securityTitle": "Data Security",
+  "securityText": "We use technical and organizational measures to protect your data against unauthorized access, loss, or misuse.",
+  "changesTitle": "Changes",
+  "changesText": "We reserve the right to update this privacy policy at any time to keep it current."
+},
+"packageLabel": "Package of your choice"
+
+
+
+}
