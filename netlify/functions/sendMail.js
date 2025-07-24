@@ -7,7 +7,7 @@ export async function handler(event, context) {
     // 1. Transporter: Dein Mailserver
     const transporter = nodemailer.createTransport({
       host: "mail.cutnity.com",    // Dein SMTP-Host
-      port: 465,                   // SSL-Port (meist 465)
+      port: 587,                   // SSL-Port (meist 465)
       secure: true,
       auth: {
         user: "stevennty@cutnity.com",
